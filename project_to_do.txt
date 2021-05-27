@@ -1,0 +1,38 @@
+projects to do
+============
+
+Spark with Scala
+----------------
+1.	data migration from on-Prem db to Auroa DB
+2.	Streaming framework
+3.	Streaming module with SQS
+4.	Producer applicaltion to Kinesis/SQS/ Kafka
+5.	Consumer application to Kinesis/SQS/Kafka
+6.	Best batch Job( Like Data lake creation)
+7. 	data feature store
+
+spark with Python
+-----------------
+1.	Inference application ( Pre-process before ML Model)
+2.	Data validation model
+3. 	Feature store model( Derived feture store)
+4.	On-HotEncoding 
+5.	Lamda haldler
+6.	ML Model training/re-training
+
+
+
+Airflow jobs
+-------------
+1. 	Notification through Airflow
+2.	inference pipeline creation through Airflow 
+3.	Model invocation through Airflow
+
+AWS
+---
+1	Lambda to kinesis
+2.	Lambda to SQS
+3.	Lambda to AWS cruller/Athena table to Kinesis/destination table ( Incremental job)
+4.	AWS Glue job 
+5.	AWS Redshift
+

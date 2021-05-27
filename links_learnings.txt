@@ -1,0 +1,90 @@
+Azure link to learn
+--------------------
+links for Data Science and AI
+-----------------------------
+https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/ykznhp660moe?WT.mc_id=cloudskillschallenge_d870c146-bf03-4869-a83b-42aacd2e534e
+
+Azure Developer League: Azure for Developers
+--------------------------------------------
+https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/1o3xtm51q6ko?WT.mc_id=cloudskillschallenge_42d24499-4f97-4a7a-9238-103bda9ebd6c
+
+Azure Developer League: Well Architected Applications
+------------------------------------------------------
+https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/1o3xtqngjomn?WT.mc_id=cloudskillschallenge_f81ed334-5d66-4dee-ae76-9a4780a2258a
+
+Azure Developer League: Cloud Native Development
+------------------------------------------------
+https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/n52yh3r87q3n?WT.mc_id=cloudskillschallenge_2d213cba-89f4-4bf0-b037-ebd79460cc56
+
+Azure Developer League: DevOps & GitHub Challenge
+-------------------------------------------------
+https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/ddkzhm61x6m4?WT.mc_id=cloudskillschallenge_851b8aec-d294-4c7d-ac84-53bacfcdb6bb
+
+Azure Developer League: Cloud Security
+https://docs.microsoft.com/en-gb/users/cloudsk
+illschallenge/collections/w2gkhrxkq5q7?WT.mc_id=cloudskillschallenge_ab9096c5-b999-4416-97ad-b2bd0935c5d9
+
+
+AWS Redshift
+------------
+https://www.youtube.com/watch?v=ojE4RUYZl1E
+
+https://aws.amazon.com/redshift/getting-started/
+
+Looking good site for Redshift:
+---
+https://www.youtube.com/playlist?list=PLh5v4I2M5t-WrP-HM_yfn_M98oN8znz6C
+
+sample data for Redshift
+------------------------
+
+
+AWS Database:
+-------------
+https://www.coursera.org/lecture/aws-cloud-practitioner-essentials/amazon-simple-storage-service-amazon-s3-ABnUl
+
+AWS DynamoDB
+-------
+https://learning.edx.org/course/course-v1:AWS+OTP-AWS-D6+2T2019/home
+uID : bansidharmohapatra@hotmail.com
+Pwd : Jan@2021
+
+https://aws.amazon.com/dynamodb/getting-started/
+https://aws.amazon.com/getting-started/hands-on/create-nosql-table/
+
+Attachments area
+Preview YouTube video Amazon Redshift Tutorial | AWS Redshift Training | Amazon Redshift Data Warehouse | Intellipaat
+
+
+scala hacker ranking questions
+------------------------------
+https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/
+
+scala basics
+------------
+https://www.javatpoint.com/scala-singleton-and-companion-object
+
+scala collections
+https://twitter.github.io/scala_school/collections.html#Sets
+
+Binary Search in Scala
+-------------------------
+https://www.geeksforgeeks.org/binary-search-in-scala/
+
+Queue in Scala (FIFO program)
+-----------------------------
+https://www.geeksforgeeks.org/queue-in-scala/
+
+Stacks in Scala
+---------------
+https://www.geeksforgeeks.org/stack-in-scala/
+
+Hacker Ranking 
+---------------
+https://www.hackerrank.com/dashboard?h_r=hrw&h_l=confirmation_email&utm_source=hrw&utm_campaign=confirmation_domains&utm_medium=email
+
+Microservices using python:
+https://www.youtube.com/watch?v=0iB5IPoTDts
+
+Concepts for microservices: 	
+https://www.youtube.com/watch?v=SVvyMc4jg7A&list=PLTgRMOcmRb3Owj5qQ7t_I3mgh4jMoL0kA

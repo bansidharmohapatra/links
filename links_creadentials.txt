@@ -1,0 +1,20 @@
+https://community.cloud.databricks.com/?o=1328991883330039
+user: bansidharmohapatra@hotmail.com
+pwd: Jan@2021
+
+
+cloudera 
+https://www.coursera.org/search?query=dynamodb&utm_source=header-for-students-link&utm_content=corp-to-landing-for-students&utm_campaign=header-for-students&utm_medium=coursera
+user : bansidharmohapatra@hotmail.com
+pwd : Jan@2021
+
+
+dockerhub
+-----------
+user: bansidharmohapatra
+pwd: January@2021
+
+gitHub
+-----
+user: bansidharmohapatra
+pwd: Jan@2022
